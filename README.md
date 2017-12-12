@@ -8,3 +8,4 @@ Compile and run fractals.c, and then run scatter.py to plot the generated fracta
 
 ## Analyzing fractals
 
+You can analyze fractal dimension using bestfit.py. Randomize either r or stickiness to see how fractal dimension varies. Again, for more usage tips, consult the .pdf.
