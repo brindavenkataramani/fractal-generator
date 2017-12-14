@@ -13,5 +13,5 @@ You can analyze fractal dimension using bestfit.py. Randomize either r or sticki
 ## Examples
 
 <p align = "center">
-  ![alt text](https://image.ibb.co/nhn6H6/Fractal_1.png)
+  [alt text](https://image.ibb.co/nhn6H6/Fractal_1.png)
 </p>
