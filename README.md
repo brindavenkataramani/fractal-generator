@@ -12,6 +12,11 @@ You can analyze fractal dimension using bestfit.py. Randomize either r or sticki
 
 ## Examples
 
-<center>
+Here is 1000 particles on a 101 by 101 square lattice. No stickiness.
+
 ![1000 particles on a 101 by 101 square lattice.](https://image.ibb.co/nhn6H6/Fractal_1.png)
-</center>
+
+Here is 1000 particles on a 101 by 101 square lattice. Stickiness was set to 0.9. A lot more clumping occurs. Fractal dimension is greater. 
+
+![1000 particles on a 101 by 101 square lattice.](https://image.ibb.co/kk5qAR/fractalstick4.png)
+
