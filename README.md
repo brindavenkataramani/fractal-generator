@@ -12,5 +12,6 @@ You can analyze fractal dimension using bestfit.py. Randomize either r or sticki
 
 ## Examples
 
-
+<center>
 ![1000 particles on a 101 by 101 square lattice.](https://image.ibb.co/nhn6H6/Fractal_1.png)
+</center>
